@@ -113,7 +113,6 @@ h1 {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  object-fit: cover;
 }
 
 /* 5. La Carta dentro del sobre */
@@ -136,8 +135,6 @@ h1 {
 .letter img {
   width: 100%;
   height: 70px;
-  object-fit: cover;
-  border-radius: 3px;
 }
 
 .letter p {
