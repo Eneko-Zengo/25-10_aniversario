@@ -112,7 +112,7 @@ h1 {
 .sticker img {
   width: 100%;
   height: 100%;
-  
+  border-radius: 50%;
 }
 
 /* 5. La Carta dentro del sobre */
